@@ -6,14 +6,18 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
-        <link rel="icon" href="/favicon.ico" />
+        <title>Rohan Frontend developer</title>
+        <link rel="icon" href="c:\Users\Admin\Downloads\IMG-20230914-WA0010.jpg" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="I am a creative 
+        <br />
+        frontend developer" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          I like to craft solid and scalable frontend products 
+          <br />
+          with great user experiences.
         </p>
       </main>
 
